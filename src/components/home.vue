@@ -14,7 +14,7 @@
 
 		},
 		created() {
-			this.$route.fullPath === "/" ? this.$router.replace("/home") : this.$router.replace(this.$route.fullPath);
+			this.$route.fullPath === "/" ? this.$router.replace("/city/home") : this.$router.replace(this.$route.fullPath);
 		}
 	}
 </script>

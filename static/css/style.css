@@ -6,9 +6,54 @@ body {
 	height: 100%;
 }
 
-.text-right{
+.text-right {
 	text-align: right;
 }
-.w1000{
-	width: 1000px;
+
+.w800 {
+	width: 800px;
+}
+
+.w193 {
+	width: 193px;
+}
+
+.w217 {
+	width: 217px !important;
+}
+
+.padding-right-20 {
+	padding-right: 20px !important;
+}
+
+.margin-top-20 {
+	margin-top: 20px;
+}
+
+.row {
+	padding: 10px 0;
+}
+
+.disabled {
+	disabled: true;
+}
+
+.br {
+	margin-top: 15px;
+}
+
+.inline-input {
+	display: inline-block !important;
+}
+
+.inline-input .el-input__inner {
+	display: inline-block !important;
+}
+
+.BMap_cpyCtrl {
+	display: none !important;
+}
+
+.anchorBL {
+	bottom: 0 !important;
 }
