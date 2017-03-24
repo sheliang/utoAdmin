@@ -1,21 +1,11 @@
-# route-set
+# Vue Product Test
 
-> A Vue.js project
+## Vue + Element + axios
 
-## Build Setup
+## 后台管理系统测试
 
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## 涉及：
+			1、引入百度地图，渲染及使用
+			2、百度地图封装模块，传参及回调
+			3、统一axios请求失败回调
+			4、node代理接口 -- utoManagement
